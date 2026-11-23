@@ -1,0 +1,1 @@
+{ "data": { "orders": [ { "id": 1041, "customer": { "first name": "Ann", "email": "ann@example.com" }, "items": [ { "sku-id": "TEE-RED-M", "qty": 2 } ] }, { "id": 1042, "customer": { "first name": "Bob", "email": "bob@example.com" }, "items": [] } ] } }
